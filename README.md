@@ -10,7 +10,11 @@ The Effect of Stress Level and Activity on Sleep Duration
 References
 
 Crowley, K. (2011). Sleep and sleep disorders in older adults. Neuropsychology review, 21, 41-53.
+
 Liu, Y., Wheaton, A. G., Chapman, D. P., Cunningham, T. J., Lu, H., & Croft, J. B. (2016). Prevalence of healthy sleep duration among adults—United States, 2014. Morbidity and Mortality Weekly Report, 65(6), 137-141.
+
 Möbius. (2020, December 16). Fitbit Fitness Tracker Data. Kaggle. https://www.kaggle.com/datasets/arashnic/fitbit 
+
 Slater, G., & Steier, J. (2012). Excessive daytime sleepiness in sleep disorders. Journal of thoracic disease, 4(6), 608.
+
 Tharmalingam, L. (2023, May 26). Sleep health and lifestyle dataset. Kaggle. https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
