@@ -14,7 +14,7 @@ Crowley, K. (2011). Sleep and sleep disorders in older adults. _Neuropsychology 
 
 Liu, Y., Wheaton, A. G., Chapman, D. P., Cunningham, T. J., Lu, H., & Croft, J. B. (2016). Prevalence of healthy sleep duration among adults—United States, 2014. __Morbidity and Mortality Weekly Report_, 65_(6), 137-141.
 
-Möbius. (2020, December 16)._Fitbit Fitness Tracker Data_. Kaggle. https://www.kaggle.com/datasets/arashnic/fitbit 
+Möbius. (2020, December 16). _Fitbit Fitness Tracker Data_. Kaggle. https://www.kaggle.com/datasets/arashnic/fitbit 
 
 Slater, G., & Steier, J. (2012). Excessive daytime sleepiness in sleep disorders. _Journal of thoracic disease, 4_(6), 608.
 
