@@ -1,4 +1,4 @@
-The Effect of Stress Level and Activity on Sleep Duration 
+The Effect of Stress Level and Physical Activity on Sleep Duration 
 
 Research samples of the American population have revealed that as many as 50% of Americans have difficulty initiating and maintaining sleep (Crowley, 2011). In addition, other analyses report that just under 20% of Americans experience daytime drowsiness (Slater, & Steier, 2012). Recent health findings report that sleeping less than 7 hours a night is associated with an increased risk for various health complications such as diabetes, heart disease, and overall mortality (Liu et al., 2016). Research has also reported the association of lack of sleep and mental dysfunction as well. For instance, Liu (2016) discusses that poor sleep habits are associated with cognitive dysfunction. Since prior research shows that many Americans have sleep-related difficulty and will experience the subsequent effects of sleep loss, our data analysis investigates some of the ways individuals can obtain more sleep.
 
