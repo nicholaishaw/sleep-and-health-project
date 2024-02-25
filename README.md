@@ -29,7 +29,7 @@ Next, we converted the number of minutes of physical activity from minutes into 
 **Figure 3.** *Converting minutes of sleep and physical activity into hours. The same was done for sedentary activity, lightly active minutes, and fairly active minutes.*
 
 ### Dataset 2:
-Dataset 2 was imported into a pandas dataframe but not need to be cleaned for analysis.
+Dataset 2 was imported into a pandas dataframe and did not need to be cleaned for analysis.
 
 ## Data Analysis
 **Dataset 1: physical activity level and sleep.** Using the matplotlib and scipy.stats libraries, we conducted an analysis of thirty participants in Jupyter Notebook (Möbius, 2020). We found there was no significant correlation between very active exercise and hours asleep (*p*=0.066, *r*=-0.090). We found a significant negative association between hours of sedentary activity and hours asleep (*p*=1.220e-41, *r*=-0.599). We found a significant negative association between hours of fairly active exercise and hours asleep (*p*=4.877e-07, *r*=-0.245). We found no significant association between lightly active exercise and hours asleep (*p*=0.505, *r*=-0.033).
